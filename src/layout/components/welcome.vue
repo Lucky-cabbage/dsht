@@ -1,7 +1,6 @@
 <template>
-  <div id="app">
-    <router-view></router-view>
-  </div>
+  <!-- 默认显示路由 -->
+  <div>welcome to you</div>
 </template>
 
 <script>
